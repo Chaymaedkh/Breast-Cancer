@@ -6,13 +6,21 @@
 L'application contient un formulaire principal où l'utilisateur peut entrer diverses informations cliniques pour obtenir une prédiction sur la nature de la tumeur du sein. Les champs de saisie incluent :
 
   . Âge
+  
   . Statut ménopausique (0 = préménopausée, 1 = postménopausée)
+  
   . Taille de la tumeur (en mm)
+  
   . Grade de la tumeur
+  
   . Nombre de ganglions lymphatiques positifs
+  
   . Récepteurs de la progestérone (en fmol/l)
+  
   . Récepteurs de l'œstrogène (en fmol/l)
+  
   . Thérapie hormonale (0 = non, 1 = oui)
+  
   . Temps de survie sans récidive (en mois)
   
 L'utilisateur peut cliquer sur le bouton "Predict" pour obtenir une prédiction basée sur les données saisies. Cette interface utilisateur intuitive permet de faciliter l'entrée des données cliniques et d'obtenir rapidement des résultats de prédiction.
